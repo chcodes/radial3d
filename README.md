@@ -1,6 +1,4 @@
 # radial3d
 
 ## Install
-CuPy
-SigPy
-Matplotlib
+CuPy, SigPy, Matplotlib
